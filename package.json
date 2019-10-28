@@ -1,7 +1,7 @@
 {
   "name": "react-native-fetch-ios-albums",
   "title": "React Native React Native Fetch Albums",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "README.md",
     "install.js",
     "event-emitter.js",
-    "react-native-photos-framework.podspec"
+    "react-native-fetch-ios-albums.podspec"
   ],
   "bugs": {
     "url": "https://github.com/yoman07/react-native-fetch-ios-albums/issues"
