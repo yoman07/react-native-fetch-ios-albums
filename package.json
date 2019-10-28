@@ -1,7 +1,7 @@
 {
   "name": "react-native-fetch-ios-albums",
   "title": "React Native React Native Fetch Albums",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-react-native-fetch-albums.git",
-    "baseUrl": "https://github.com/github_account/react-native-react-native-fetch-albums"
+    "url": "git+https://github.com/yoman07/react-native-fetch-ios-albums.git",
+    "baseUrl": "https://github.com/yoman07/react-native-fetch-ios-albums"
   },
   "keywords": [
     "react-native"
@@ -19,15 +19,15 @@
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "peerDependencies": {
-    "react": "^16.8.1",
+    "react": "^16.9.0",
     "react-native": ">=0.59.0-rc.0 <1.0.x"
   },
   "devDependencies": {
-    "react": "^16.8.3",
-    "react-native": "^0.59.10"
+    "react": "^16.9.0",
+    "react-native": "^0.61.2"
   },
   "bugs": {
-    "url": "https://github.com/github_account/react-native-react-native-fetch-albums/issues"
+    "url": "https://github.com/yoman07/react-native-fetch-ios-albums/issues"
   },
-  "homepage": "https://github.com/github_account/react-native-react-native-fetch-albums#readme"
+  "homepage": "https://github.com/yoman07/react-native-fetch-ios-albums#readme"
 }

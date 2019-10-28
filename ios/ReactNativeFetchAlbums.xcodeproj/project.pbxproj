@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		B3E7B58A1CC2AC0600A0062D /* ReactNativeFetchAlbums.m in Sources */ = {isa = PBXBuildFile; fileRef = B3E7B5891CC2AC0600A0062D /* ReactNativeFetchAlbums.m */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		58B511D91A9E6C8500147676 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -81,8 +77,6 @@
 		39A6F36D2366E2BC001B89A4 /* PHAssetWithCollectionIndex.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHAssetWithCollectionIndex.h; sourceTree = "<group>"; };
 		39A6F36E2366E2BC001B89A4 /* PHFetchOptionsService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHFetchOptionsService.m; sourceTree = "<group>"; };
 		39A6F36F2366E2BC001B89A4 /* SDAVAssetExportSession.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SDAVAssetExportSession.h; sourceTree = "<group>"; };
-		B3E7B5881CC2AC0600A0062D /* ReactNativeFetchAlbums.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReactNativeFetchAlbums.h; sourceTree = "<group>"; };
-		B3E7B5891CC2AC0600A0062D /* ReactNativeFetchAlbums.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReactNativeFetchAlbums.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,8 +165,6 @@
 		58B511D21A9E6C8500147676 = {
 			isa = PBXGroup;
 			children = (
-				B3E7B5881CC2AC0600A0062D /* ReactNativeFetchAlbums.h */,
-				B3E7B5891CC2AC0600A0062D /* ReactNativeFetchAlbums.m */,
 				39A6F3362366E2BC001B89A4 /* RNPhotosFramework */,
 				134814211AA4EA7D00B7C361 /* Products */,
 			);
@@ -235,7 +227,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3E7B58A1CC2AC0600A0062D /* ReactNativeFetchAlbums.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
