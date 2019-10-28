@@ -1,5 +1,2 @@
-import { NativeModules } from 'react-native';
-
-const { ReactNativeFetchAlbums } = NativeModules;
-
-export default ReactNativeFetchAlbums;
+import RNPFManager from './src/index';
+export default RNPFManager;
