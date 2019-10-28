@@ -3,11 +3,11 @@ require "json"
 package = JSON.parse(File.read(File.join(__dir__, "package.json")))
 
 Pod::Spec.new do |s|
-  s.name         = "react-native-react-native-fetch-albums"
+  s.name         = "react-native-fetch-ios-albums"
   s.version      = package["version"]
   s.summary      = package["description"]
   s.description  = <<-DESC
-                  react-native-react-native-fetch-albums
+                  react-native-fetch-ios-albums
                    DESC
   s.homepage     = "https://github.com/github_account/react-native-react-native-fetch-albums"
   s.license      = "MIT"
