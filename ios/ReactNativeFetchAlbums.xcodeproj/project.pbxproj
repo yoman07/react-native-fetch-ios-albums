@@ -24,6 +24,63 @@
 
 /* Begin PBXFileReference section */
 		134814201AA4EA6300B7C361 /* libReactNativeFetchAlbums.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libReactNativeFetchAlbums.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		39A6F3372366E2BC001B89A4 /* PHSaveAssetToFileOperationResult.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHSaveAssetToFileOperationResult.m; sourceTree = "<group>"; };
+		39A6F3382366E2BC001B89A4 /* iDebounce.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iDebounce.h; sourceTree = "<group>"; };
+		39A6F3392366E2BC001B89A4 /* ImageHelpers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageHelpers.h; sourceTree = "<group>"; };
+		39A6F33A2366E2BC001B89A4 /* RNPFHelpers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPFHelpers.h; sourceTree = "<group>"; };
+		39A6F33B2366E2BC001B89A4 /* PHSaveAssetRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHSaveAssetRequest.h; sourceTree = "<group>"; };
+		39A6F33C2366E2BC001B89A4 /* PHCancellationTokenManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHCancellationTokenManager.h; sourceTree = "<group>"; };
+		39A6F33D2366E2BC001B89A4 /* PHOperationResult.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHOperationResult.m; sourceTree = "<group>"; };
+		39A6F33E2366E2BC001B89A4 /* PHCachingImageManagerInstance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHCachingImageManagerInstance.h; sourceTree = "<group>"; };
+		39A6F33F2366E2BC001B89A4 /* RNPFFileDownloader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPFFileDownloader.h; sourceTree = "<group>"; };
+		39A6F3402366E2BC001B89A4 /* PHAssetsService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHAssetsService.h; sourceTree = "<group>"; };
+		39A6F3412366E2BC001B89A4 /* PHChangeObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHChangeObserver.m; sourceTree = "<group>"; };
+		39A6F3422366E2BC001B89A4 /* RNPFUrlRequestHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPFUrlRequestHandler.h; sourceTree = "<group>"; };
+		39A6F3432366E2BC001B89A4 /* RNPFManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPFManager.m; sourceTree = "<group>"; };
+		39A6F3442366E2BC001B89A4 /* RNPFImageLoader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPFImageLoader.h; sourceTree = "<group>"; };
+		39A6F3452366E2BC001B89A4 /* RCTConvert+RNPhotosFramework.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "RCTConvert+RNPhotosFramework.m"; sourceTree = "<group>"; };
+		39A6F3462366E2BC001B89A4 /* PHSaveAsset.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHSaveAsset.m; sourceTree = "<group>"; };
+		39A6F3472366E2BC001B89A4 /* PHCache.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHCache.h; sourceTree = "<group>"; };
+		39A6F3482366E2BC001B89A4 /* PHCreateMediaQueue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHCreateMediaQueue.h; sourceTree = "<group>"; };
+		39A6F3492366E2BC001B89A4 /* PHCollectionService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHCollectionService.m; sourceTree = "<group>"; };
+		39A6F34A2366E2BC001B89A4 /* RNPhotosFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPhotosFramework.h; sourceTree = "<group>"; };
+		39A6F34B2366E2BC001B89A4 /* PHCachedFetchResult.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHCachedFetchResult.m; sourceTree = "<group>"; };
+		39A6F34C2366E2BC001B89A4 /* RCTImageResizer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RCTImageResizer.m; sourceTree = "<group>"; };
+		39A6F34D2366E2BC001B89A4 /* PHSaveAssetFileRequest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHSaveAssetFileRequest.m; sourceTree = "<group>"; };
+		39A6F34E2366E2BC001B89A4 /* SDAVAssetExportSession.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SDAVAssetExportSession.m; sourceTree = "<group>"; };
+		39A6F34F2366E2BC001B89A4 /* PHFetchOptionsService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHFetchOptionsService.h; sourceTree = "<group>"; };
+		39A6F3502366E2BC001B89A4 /* PHVideoExporter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHVideoExporter.h; sourceTree = "<group>"; };
+		39A6F3512366E2BC001B89A4 /* PHAssetWithCollectionIndex.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHAssetWithCollectionIndex.m; sourceTree = "<group>"; };
+		39A6F3522366E2BC001B89A4 /* PHCancellationToken.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHCancellationToken.h; sourceTree = "<group>"; };
+		39A6F3532366E2BC001B89A4 /* PHOperationResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHOperationResult.h; sourceTree = "<group>"; };
+		39A6F3542366E2BC001B89A4 /* PHAssetsService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHAssetsService.m; sourceTree = "<group>"; };
+		39A6F3552366E2BC001B89A4 /* RNPFFileDownloader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPFFileDownloader.m; sourceTree = "<group>"; };
+		39A6F3562366E2BC001B89A4 /* PHCachingImageManagerInstance.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHCachingImageManagerInstance.m; sourceTree = "<group>"; };
+		39A6F3572366E2BC001B89A4 /* PHCancellationTokenManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHCancellationTokenManager.m; sourceTree = "<group>"; };
+		39A6F3582366E2BC001B89A4 /* PHSaveAssetRequest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHSaveAssetRequest.m; sourceTree = "<group>"; };
+		39A6F3592366E2BC001B89A4 /* RNPFGlobals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPFGlobals.h; sourceTree = "<group>"; };
+		39A6F35A2366E2BC001B89A4 /* RNPFHelpers.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPFHelpers.m; sourceTree = "<group>"; };
+		39A6F35B2366E2BC001B89A4 /* ImageHelpers.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageHelpers.m; sourceTree = "<group>"; };
+		39A6F35C2366E2BC001B89A4 /* PHSaveAssetToFileOperationResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHSaveAssetToFileOperationResult.h; sourceTree = "<group>"; };
+		39A6F35D2366E2BC001B89A4 /* iDebounce.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iDebounce.m; sourceTree = "<group>"; };
+		39A6F35E2366E2BC001B89A4 /* PHSaveAsset.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHSaveAsset.h; sourceTree = "<group>"; };
+		39A6F35F2366E2BC001B89A4 /* RCTConvert+RNPhotosFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RCTConvert+RNPhotosFramework.h"; sourceTree = "<group>"; };
+		39A6F3602366E2BC001B89A4 /* RNPFImageLoader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPFImageLoader.m; sourceTree = "<group>"; };
+		39A6F3612366E2BC001B89A4 /* RNPFManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNPFManager.h; sourceTree = "<group>"; };
+		39A6F3622366E2BC001B89A4 /* RNPFUrlRequestHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPFUrlRequestHandler.m; sourceTree = "<group>"; };
+		39A6F3632366E2BC001B89A4 /* PHChangeObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHChangeObserver.h; sourceTree = "<group>"; };
+		39A6F3642366E2BC001B89A4 /* PHCachedFetchResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHCachedFetchResult.h; sourceTree = "<group>"; };
+		39A6F3652366E2BC001B89A4 /* RCTImageResizer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RCTImageResizer.h; sourceTree = "<group>"; };
+		39A6F3662366E2BC001B89A4 /* PHSaveAssetFileRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHSaveAssetFileRequest.h; sourceTree = "<group>"; };
+		39A6F3672366E2BC001B89A4 /* RNPhotosFramework.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNPhotosFramework.m; sourceTree = "<group>"; };
+		39A6F3682366E2BC001B89A4 /* PHCollectionService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHCollectionService.h; sourceTree = "<group>"; };
+		39A6F3692366E2BC001B89A4 /* PHCreateMediaQueue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHCreateMediaQueue.m; sourceTree = "<group>"; };
+		39A6F36A2366E2BC001B89A4 /* PHCache.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHCache.m; sourceTree = "<group>"; };
+		39A6F36B2366E2BC001B89A4 /* PHCancellationToken.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHCancellationToken.m; sourceTree = "<group>"; };
+		39A6F36C2366E2BC001B89A4 /* PHVideoExporter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHVideoExporter.m; sourceTree = "<group>"; };
+		39A6F36D2366E2BC001B89A4 /* PHAssetWithCollectionIndex.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHAssetWithCollectionIndex.h; sourceTree = "<group>"; };
+		39A6F36E2366E2BC001B89A4 /* PHFetchOptionsService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PHFetchOptionsService.m; sourceTree = "<group>"; };
+		39A6F36F2366E2BC001B89A4 /* SDAVAssetExportSession.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SDAVAssetExportSession.h; sourceTree = "<group>"; };
 		B3E7B5881CC2AC0600A0062D /* ReactNativeFetchAlbums.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReactNativeFetchAlbums.h; sourceTree = "<group>"; };
 		B3E7B5891CC2AC0600A0062D /* ReactNativeFetchAlbums.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReactNativeFetchAlbums.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -47,11 +104,76 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		39A6F3362366E2BC001B89A4 /* RNPhotosFramework */ = {
+			isa = PBXGroup;
+			children = (
+				39A6F3372366E2BC001B89A4 /* PHSaveAssetToFileOperationResult.m */,
+				39A6F3382366E2BC001B89A4 /* iDebounce.h */,
+				39A6F3392366E2BC001B89A4 /* ImageHelpers.h */,
+				39A6F33A2366E2BC001B89A4 /* RNPFHelpers.h */,
+				39A6F33B2366E2BC001B89A4 /* PHSaveAssetRequest.h */,
+				39A6F33C2366E2BC001B89A4 /* PHCancellationTokenManager.h */,
+				39A6F33D2366E2BC001B89A4 /* PHOperationResult.m */,
+				39A6F33E2366E2BC001B89A4 /* PHCachingImageManagerInstance.h */,
+				39A6F33F2366E2BC001B89A4 /* RNPFFileDownloader.h */,
+				39A6F3402366E2BC001B89A4 /* PHAssetsService.h */,
+				39A6F3412366E2BC001B89A4 /* PHChangeObserver.m */,
+				39A6F3422366E2BC001B89A4 /* RNPFUrlRequestHandler.h */,
+				39A6F3432366E2BC001B89A4 /* RNPFManager.m */,
+				39A6F3442366E2BC001B89A4 /* RNPFImageLoader.h */,
+				39A6F3452366E2BC001B89A4 /* RCTConvert+RNPhotosFramework.m */,
+				39A6F3462366E2BC001B89A4 /* PHSaveAsset.m */,
+				39A6F3472366E2BC001B89A4 /* PHCache.h */,
+				39A6F3482366E2BC001B89A4 /* PHCreateMediaQueue.h */,
+				39A6F3492366E2BC001B89A4 /* PHCollectionService.m */,
+				39A6F34A2366E2BC001B89A4 /* RNPhotosFramework.h */,
+				39A6F34B2366E2BC001B89A4 /* PHCachedFetchResult.m */,
+				39A6F34C2366E2BC001B89A4 /* RCTImageResizer.m */,
+				39A6F34D2366E2BC001B89A4 /* PHSaveAssetFileRequest.m */,
+				39A6F34E2366E2BC001B89A4 /* SDAVAssetExportSession.m */,
+				39A6F34F2366E2BC001B89A4 /* PHFetchOptionsService.h */,
+				39A6F3502366E2BC001B89A4 /* PHVideoExporter.h */,
+				39A6F3512366E2BC001B89A4 /* PHAssetWithCollectionIndex.m */,
+				39A6F3522366E2BC001B89A4 /* PHCancellationToken.h */,
+				39A6F3532366E2BC001B89A4 /* PHOperationResult.h */,
+				39A6F3542366E2BC001B89A4 /* PHAssetsService.m */,
+				39A6F3552366E2BC001B89A4 /* RNPFFileDownloader.m */,
+				39A6F3562366E2BC001B89A4 /* PHCachingImageManagerInstance.m */,
+				39A6F3572366E2BC001B89A4 /* PHCancellationTokenManager.m */,
+				39A6F3582366E2BC001B89A4 /* PHSaveAssetRequest.m */,
+				39A6F3592366E2BC001B89A4 /* RNPFGlobals.h */,
+				39A6F35A2366E2BC001B89A4 /* RNPFHelpers.m */,
+				39A6F35B2366E2BC001B89A4 /* ImageHelpers.m */,
+				39A6F35C2366E2BC001B89A4 /* PHSaveAssetToFileOperationResult.h */,
+				39A6F35D2366E2BC001B89A4 /* iDebounce.m */,
+				39A6F35E2366E2BC001B89A4 /* PHSaveAsset.h */,
+				39A6F35F2366E2BC001B89A4 /* RCTConvert+RNPhotosFramework.h */,
+				39A6F3602366E2BC001B89A4 /* RNPFImageLoader.m */,
+				39A6F3612366E2BC001B89A4 /* RNPFManager.h */,
+				39A6F3622366E2BC001B89A4 /* RNPFUrlRequestHandler.m */,
+				39A6F3632366E2BC001B89A4 /* PHChangeObserver.h */,
+				39A6F3642366E2BC001B89A4 /* PHCachedFetchResult.h */,
+				39A6F3652366E2BC001B89A4 /* RCTImageResizer.h */,
+				39A6F3662366E2BC001B89A4 /* PHSaveAssetFileRequest.h */,
+				39A6F3672366E2BC001B89A4 /* RNPhotosFramework.m */,
+				39A6F3682366E2BC001B89A4 /* PHCollectionService.h */,
+				39A6F3692366E2BC001B89A4 /* PHCreateMediaQueue.m */,
+				39A6F36A2366E2BC001B89A4 /* PHCache.m */,
+				39A6F36B2366E2BC001B89A4 /* PHCancellationToken.m */,
+				39A6F36C2366E2BC001B89A4 /* PHVideoExporter.m */,
+				39A6F36D2366E2BC001B89A4 /* PHAssetWithCollectionIndex.h */,
+				39A6F36E2366E2BC001B89A4 /* PHFetchOptionsService.m */,
+				39A6F36F2366E2BC001B89A4 /* SDAVAssetExportSession.h */,
+			);
+			path = RNPhotosFramework;
+			sourceTree = "<group>";
+		};
 		58B511D21A9E6C8500147676 = {
 			isa = PBXGroup;
 			children = (
 				B3E7B5881CC2AC0600A0062D /* ReactNativeFetchAlbums.h */,
 				B3E7B5891CC2AC0600A0062D /* ReactNativeFetchAlbums.m */,
+				39A6F3362366E2BC001B89A4 /* RNPhotosFramework */,
 				134814211AA4EA7D00B7C361 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -95,6 +217,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 58B511D21A9E6C8500147676;
@@ -216,7 +339,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				HEADER_SEARCH_PATHS = (
-				"$(inherited)",
+					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"$(SRCROOT)/../../../React/**",
 					"$(SRCROOT)/../../react-native/React/**",

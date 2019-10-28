@@ -1,7 +1,7 @@
 {
-  "name": "react-native-react-native-fetch-albums",
+  "name": "react-native-fetch-ios-albums",
   "title": "React Native React Native Fetch Albums",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -15,13 +15,9 @@
   "keywords": [
     "react-native"
   ],
-  "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
-  },
+  "author": "Your Name <yourname@email.com>",
   "license": "MIT",
   "licenseFilename": "LICENSE",
-  "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^16.8.1",
     "react-native": ">=0.59.0-rc.0 <1.0.x"
@@ -29,5 +25,9 @@
   "devDependencies": {
     "react": "^16.8.3",
     "react-native": "^0.59.10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/github_account/react-native-react-native-fetch-albums/issues"
+  },
+  "homepage": "https://github.com/github_account/react-native-react-native-fetch-albums#readme"
 }
